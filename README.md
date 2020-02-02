@@ -1,5 +1,5 @@
 # WindowsMojaveDynamicWallpaper
-A Mojave background that changes depending on the time of day
+A dynamic background that changes depending on the time of day
 
 
 ### Setup:
